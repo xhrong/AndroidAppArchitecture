@@ -4,6 +4,10 @@ import com.xhr.flux.action.Action;
 
 import org.greenrobot.eventbus.EventBus;
 
+/**
+ * 如果不采用EventBus，而是采用其它方案驱动数据流，就会和其他的Unidirectional Architecture相似了。
+ */
+
 public abstract class Store {
     private static final EventBus mBus = EventBus.getDefault();
 

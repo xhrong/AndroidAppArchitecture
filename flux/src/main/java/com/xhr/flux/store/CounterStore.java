@@ -30,6 +30,7 @@ public class CounterStore extends Store {
 
     @Override
     protected StoreChangeEvent changeEvent() {
+        //这个事件，仅用做业务区分，可不携带数据。数据和通过Store获取
         return new StoreChangeEvent();
     }
 
