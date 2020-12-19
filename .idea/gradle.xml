@@ -11,9 +11,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/clean" />
+            <option value="$PROJECT_DIR$/conductor" />
+            <option value="$PROJECT_DIR$/flux" />
+            <option value="$PROJECT_DIR$/fragmentless" />
             <option value="$PROJECT_DIR$/mvc-active" />
             <option value="$PROJECT_DIR$/mvc-passive" />
+            <option value="$PROJECT_DIR$/mvi" />
             <option value="$PROJECT_DIR$/mvp" />
+            <option value="$PROJECT_DIR$/mvp-clean" />
+            <option value="$PROJECT_DIR$/mvu" />
+            <option value="$PROJECT_DIR$/mvvm-aac" />
+            <option value="$PROJECT_DIR$/mvvm-databinding" />
+            <option value="$PROJECT_DIR$/redux" />
+            <option value="$PROJECT_DIR$/riblets" />
+            <option value="$PROJECT_DIR$/viper" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
