@@ -15,6 +15,7 @@ public class CounterModel {
     }
 
 
+    //从不可变性角度来说，不应该提供该方法
     public void operate(int op) {
         count += op;
     }
