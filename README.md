@@ -8,7 +8,6 @@ Arch Demonstration
 - MVI
 - MVU（Elm Arch）
 - VIPER
-- Clean Arch
 - Riblets
 - Fragmentless
 - Conductor
